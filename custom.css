@@ -1,0 +1,41 @@
+#wiki-wrapper {
+  max-width: 80%;
+}
+
+.has-sidebar #wiki-body {
+  width: 80%;
+}
+
+#wiki-sidebar {
+  width: 15%;
+}
+
+.markdown-body {
+  padding: 0px;
+}
+
+#head h1 {
+  font-size: 1.5em;
+  float: left;
+  line-height: normal;
+  margin: 0;
+  margin-bottom: 20px;
+  padding: 0 0 0 0.667em;
+}
+
+li > ul {
+  margin: 0 !important;
+}
+
+.center90 {
+	margin: 0 auto !important;
+	width: 90%;
+	display: table !important;
+}
+
+.center80 {
+	margin: 0 auto !important;
+	width: 80%;
+	display: table !important;
+}
+
